@@ -1,4 +1,22 @@
-{  
- "ImageUrl": "https://www.dropbox.com/s/uuekqv8phu59sye/Screenshot%202019-11-17%20at%208.14.28%20PM.png?dl=1",  
- "VideoUrl": "https://www.dropbox.com/s/lfc2stmhoh9mxrh/German%20Alps%20Nature%20whatsapp%20status%20HD.mp4?dl=1" 
+
+{
+ 
+  "ImageVideoArray":
+  [
+  
+   {
+     "ImageUrl":"1",
+     "VideoUrl":"1v"
+   },
+    
+   {
+     "ImageUrl":"2",
+     "VideoUrl":"2v"
+   },
+    
+   {
+     "ImageUrl":"3",
+     "VideoUrl":"3v"
+   }
+  ]
 }
