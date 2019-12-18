@@ -6,7 +6,10 @@
                 "targetVideoUrl":"https://youtu.be/ns9m07fgJGo",
                 "adsInfo":"Your chances at winning $10,000 is just a pizza and a away",
                 "adsButtonName":"GET GIVEAWAYS",
-                "adsRedirectUrl":"https://fanisko.com/"
+                "adsRedirectUrl":"https://fanisko.com/",
+                "advertisement_id":"Alpha_123",
+                "project_id":"Fanisko_1",
+                "promotion_id":"Promotoin_1"
         },
                 {
                 "targetImageUrl":"https://engage-ar.s3-us-west-2.amazonaws.com/201812141413/SeanPoster.jpg",
@@ -14,6 +17,9 @@
                 "adsInfo":"Fanisko offers a one-stop fan engagement platform, , that helps brands increase mobile fan retention using innovative digital engagement techniques while increasing revenue opportunities",
                 "adsButtonName":"Fanisko",
                 "adsRedirectUrl":"https://fanisko.com/"
+                "advertisement_id":"Delta_123",
+                "project_id":"Fanisko_2",
+                "promotion_id":"Promotoin_2"
         }
         ]
 }
