@@ -4,8 +4,7 @@
         {
                 "targetImageUrl":"https://engage-ar.s3-us-west-2.amazonaws.com/201812141413/Target_Image.jpg",
                 "targetVideoUrl":"https://youtu.be/ns9m07fgJGo",
-                "adsInfo":"Im pretty sure that the code is being entered , as the log message for the 'Right' is played twice, however is doesn't look like the actual animation plays and performs the necessary transform.
-Any help on this will be much appreciated",
+                "adsInfo":"Fanisko Engage is a mobile SDK that plugs into your app seamlessly through our API and powers it with added Gamification and AR components that is customized for your brand. It also comes stand-alone as a downloadable app for Android and iOS. In addition to Gamification and AR, the stand-alone app has a Content module that allows you to post proprietary content through our dashboard and auto curate content from various sources.",
                 "adsButtonName":"GET GIVEAWAYS",
                 "adsRedirectUrl":"https://fanisko.com/",
                 "advertisement_id":"Alpha_123",
