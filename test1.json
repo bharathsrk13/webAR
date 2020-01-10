@@ -1,0 +1,14 @@
+{
+"arList": [
+        {
+                "targetImageUrl":"https://webarbharath.s3.us-east-2.amazonaws.com/SeanPoster.jpg",
+                "targetVideoUrl":"https://youtu.be/YxwAfZVOqZ4",
+                "adsInfo":"Fanisko Engage is a mobile SDK that plugs into your app seamlessly through our API and powers it with added Gamification and AR components that is customized for your brand. It also comes stand-alone as a downloadable app for Android and iOS. In addition to Gamification and AR, the stand-alone app has a Content module that allows you to post proprietary content through our dashboard and auto curate content from various sources.",
+                "adsButtonName":"GET GIVEAWAYS",
+                "adsRedirectUrl":"https://fanisko.com/",
+                "advertisement_id":"Alpha_123",
+                "project_id":"Fanisko_1",
+                "promotion_id":"Promotoin_1"
+        }
+        ]
+}
